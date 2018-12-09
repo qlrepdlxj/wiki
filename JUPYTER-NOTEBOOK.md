@@ -34,6 +34,8 @@ IRkernel::installspec()
 
 IRkernel::installspec(user = FALSE)
 
+## 참고
+
 http://yhzion.tistory.com/17
 
 https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
