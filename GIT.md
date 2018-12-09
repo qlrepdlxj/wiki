@@ -1,4 +1,5 @@
 git config --global user.name "이름"
+
 git config --global user.email "깃허브 메일주소"
 
 git init
