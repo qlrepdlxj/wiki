@@ -19,3 +19,7 @@ git push origin master
 git pull origin master
 
 git clone <저장소 주소>
+
+https://nolboo.kim/blog/2013/10/06/github-for-beginner/
+
+https://www.zerocho.com/category/Git/post/581042fdcae2d100152ceae6
