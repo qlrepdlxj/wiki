@@ -39,3 +39,5 @@ IRkernel::installspec(user = FALSE)
 http://yhzion.tistory.com/17
 
 https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+
+http://pinedance.github.io/blog/2017/09/12/Ubuntu-16.04-system-service-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0
